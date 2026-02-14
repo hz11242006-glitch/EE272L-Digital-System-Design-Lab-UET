@@ -1,4 +1,4 @@
-            module and_gate_tb;
+    module and_gate_tb;
             logic a1, b1, y1;
 
             localparam period = 10;
